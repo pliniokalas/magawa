@@ -1,3 +1,5 @@
+> [Read in english](https://github.com/pliniokalas/magawa/blob/main/README_EN.md#magawa-en)
+
 # Um "solucionador parcial" de Campo Minado
 
 Algoritmo criado para desafio técnico em processo de candidatura de estágio.
